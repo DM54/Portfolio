@@ -1,5 +1,5 @@
 /* Style inputs with type="text", select elements and textareas */
-input[type=text], select, textarea {
+input[type=text], select, textarea, [type=email] {
   width: 100%; /* Full width */
   padding: 12px; /* Some padding */
   border: 1px solid #ccc; /* Gray border */
@@ -28,7 +28,6 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container {
   border-radius: 5px;
-
   padding: 20px;
 }
 
@@ -46,13 +45,23 @@ input[type=submit]:hover {
   flex: 1;
 }
 
-h3{
+.green{
   color: #45a049;
 
 }
-h2{
+.green1{
   color: #45a049;
   text-align: center;
+
+}
+
+.homelogo{
+
+  background-image: url('C:\Users\dyana\Desktop\Portfolio\Portfolio\src\images\favicon-16x16.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 70%;
 }
 
 p{

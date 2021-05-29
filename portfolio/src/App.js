@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import './styles/styles.css'
-import Header from './components/Header';
+import Header from './pages/Header';
 import About from './pages/About';
 import {
   BrowserRouter as Router,
@@ -28,6 +28,7 @@ export default function App() {
             {/**the exact is for the path so, to match only the path that has the empty slash. so don't need to change the order of the paths
              * and each page will be unquie path.
              */}
+
 
              <Route path='/' exact component={Home}></Route>
 
