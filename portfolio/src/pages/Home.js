@@ -11,6 +11,7 @@ const Home = () => {
     <p>And I'm a Photographer</p>
 
     {/*exact is so the home link doesn't stay active when navigate other pages. */}
+
     <NavLink to='/work' className="btn btn-outline-light mr-2">Work</NavLink>
     <NavLink to='/about' className="btn btn-outline-light mr-2">About</NavLink>
     <NavLink to='/contact' className="btn btn-outline-light mr-2">Contact</NavLink>
