@@ -58,11 +58,11 @@ input[type=submit]:hover {
 
 .homelogo{
 
-  background-image: url('C:\Users\dyana\Desktop\Portfolio\Portfolio\src\images\favicon-16x16.png');
+  background-image: url('../../images/apple-touch-icon.png');
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-  background-size: 70%;
+
+  background-size: 80%;
 }
 
 p{
