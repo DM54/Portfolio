@@ -29,13 +29,31 @@
 
 
 .bg-image {
-  background-image: url("../../images/light-yellow-green-shade-creates-calm-background-home.jpg"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
-  width: 100%;
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url("../../images/blankbg.jpg"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+   /* Set rules to fill background */
+   min-height: 90%;
+   min-width: 1024px;
 
+   /* Set up proportionate scaling */
+   width: 100%;
+   height: auto;
+
+   /* Set up positioning */
+   position: fixed;
+   top: 0;
+   left: 0;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+
+
+
+}
+
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+  .bg-image {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
 }
 
 .bgheader{
