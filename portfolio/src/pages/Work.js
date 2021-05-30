@@ -1,18 +1,10 @@
 import React from 'react';
+import Header from './Header';
 
 const Work = () => {
   return (
     <div class="container">
-        <div class="topnav">
-            <a href="/" class="homelogo"></a>
-             <div class="links">
-              <a class="active" href="/work">Work</a>
-              <a href="/about">About</a>
-              <a  href="/contact">Contact</a>
-
-              </div>
-             </div>
-
+           <Header></Header>
 
                 <br/>
               <h3>Projects</h3>

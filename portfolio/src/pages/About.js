@@ -1,17 +1,10 @@
 import React from 'react';
+import Header from './Header';
 
 const About = () => {
   return (
     <div class="container">
-        <div class="topnav">
-            <a href="/" class="homelogo"></a>
-             <div class="links">
-              <a href="/work">Work</a>
-              <a class="active" href="/about">About</a>
-              <a href="/contact">Contact</a>
-
-              </div>
-         </div>
+       <Header></Header>
    </div>
 
   )

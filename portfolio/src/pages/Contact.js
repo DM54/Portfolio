@@ -1,4 +1,5 @@
 import React from 'react';
+import Header from './Header';
 
 const Contact = () => {
 
@@ -7,15 +8,9 @@ const Contact = () => {
 
     <div class="container">
 
-            <div class="topnav">
-            <a href="/" class="homelogo"></a>
-             <div class="links">
-              <a href="/work">Work</a>
-              <a href="/about">About</a>
-              <a class="active" href="/contact">Contact</a>
+      <Header></Header>
 
-              </div>
-             </div>
+
      <br/>
 
 
