@@ -1,5 +1,8 @@
 import React from 'react';
+import UXLinks from '../components/UXLink';
+import WebDevLink from '../components/WebDevLink';
 import Header from './Header';
+
 
 const Work = () => {
   return (
@@ -8,18 +11,39 @@ const Work = () => {
 
                 <br/>
               <h3>Projects</h3>
-
+                <hr/>
                 <div class="row">
-                <div class="col-sm">
 
-                   <img src="C:\Users\dyana\Desktop\Portfolio\Portfolio\src\images\UI-UX-Design-Strategy.png" width="100%"></img>
-                   <div class="content">
-                   <h4>UX Design</h4>
+                <div class="col-md-6 ">
+
+                  <div class="bgpic">
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <UXLinks></UXLinks>
+
                    </div>
+
                 </div>
-                <div class="col-sm">
-                  <h4>Web Development</h4>
+                <div class="col-md-6">
+                  <div class="bgpic2">
+                      <br/>
+                      <br/>
+                      <br/>
+                      <br/>
+                      <br/>
+                      <br/>
+                    <WebDevLink></WebDevLink>
+                  </div>
                 </div>
+
+
+
+
 
                 </div>
                 </div>

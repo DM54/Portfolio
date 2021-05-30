@@ -13,6 +13,9 @@ import Footer from './components/footer';
 import Work from './pages/Work';
 import Home from './pages/Home';
 
+import UXDesigns from './pages/UXDesigns';
+import WebDev from './pages/WebDev';
+
 
 export default function App() {
 
@@ -42,6 +45,9 @@ export default function App() {
             <Route path='/contact' component={Contact}>
 
             </Route>
+
+            <Route path='/UXDesigns' component={UXDesigns}></Route>
+            <Route path='/WebDev' component={WebDev}></Route>
           </Switch>
         </Router>
 

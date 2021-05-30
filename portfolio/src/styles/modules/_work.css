@@ -4,7 +4,33 @@
   background: rgb(0, 0, 0); /* Fallback color */
   background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
   color: #f1f1f1; /* Grey text */
-  width: 100%; /* Full width */
+  width: 90%; /* Full width */
   padding: 20px; /* Some padding */
+
 }
+
+
+.bgpic{
+  background-image: url("../../images/UI-UX-Design-Strategy.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 40%;
+
+
+}
+
+
+.bgpic2{
+  background-image: url("../../images/b1.3.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 40%;
+
+
+}
+
+
+
+
+
 
