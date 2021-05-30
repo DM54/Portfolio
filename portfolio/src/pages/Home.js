@@ -9,7 +9,8 @@ const Home = () => {
     <div class="hero-text ">
 
      <h1>Hello! I'm Dyana.</h1>
-    <p>And I'm a Photographer</p>
+    <p class='pcolor'>Dyana Monroy is a developer / designer, </p>
+     <p class='pcolor'> passionate about creating applications and designs.</p>
 
     {/*exact is so the home link doesn't stay active when navigate other pages. */}
 

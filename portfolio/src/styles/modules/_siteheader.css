@@ -26,7 +26,9 @@
   color: white;
 }
 
-
+.pcolor{
+  color: #ffff;
+}
 
 .bg-image {
   background-image: url("../../images/blankbg.jpg"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
