@@ -1,11 +1,11 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
-import Contact from '../pages/Contact';
+
 
 const Home = () => {
 
   return(
-    <div class= "bg-image">
+    <div class= "py-5 text-center app-header bg-image">
      <div class="hero-text">
      <h1>Hello! I'm Dyana.</h1>
     <p>And I'm a Photographer</p>

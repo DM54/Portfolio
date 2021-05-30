@@ -29,8 +29,8 @@
 
 
 .bg-image {
-  //background-image: url("../../images/light-yellow-green-shade-creates-calm-background-home.jpg"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
-  background-color: cadetblue;
+  background-image: url("../../images/light-yellow-green-shade-creates-calm-background-home.jpg"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  width: 100%;
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;

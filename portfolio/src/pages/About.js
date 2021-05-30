@@ -2,7 +2,18 @@ import React from 'react';
 
 const About = () => {
   return (
-    <h2>About Page </h2>
+    <div class="container">
+        <div class="topnav">
+            <a href="/" class="homelogo"></a>
+             <div class="links">
+              <a href="/work">Work</a>
+              <a class="active" href="/about">About</a>
+              <a href="/contact">Contact</a>
+
+              </div>
+         </div>
+   </div>
+
   )
 }
 
