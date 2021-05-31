@@ -10,3 +10,8 @@
   opacity: 70%;
 
 }
+
+.outside{
+list-style-position: outside;
+list-style-type: circle;
+}

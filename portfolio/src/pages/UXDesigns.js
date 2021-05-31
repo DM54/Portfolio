@@ -8,7 +8,7 @@ const UXDesigns = () => {
            <Header></Header>
 
                 <br/>
-              <h3>UX Designs</h3>
+              <h3>UX Design</h3>
               <hr/>
 
                 </div>

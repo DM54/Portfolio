@@ -8,7 +8,7 @@ const WebDev = () => {
            <Header></Header>
 
                 <br/>
-              <h3>Web Designs</h3>
+              <h3>Web Design</h3>
                 <hr/>
 
 
