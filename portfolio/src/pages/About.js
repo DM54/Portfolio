@@ -101,15 +101,15 @@ const About = () => {
             <div className= "col-sm-4">
               <h5 className="name">Certification/License</h5>
                <p className="pcolorabout psize">
-                Google UX Design Course 1 Certificate – Issued May 2021, No Expiration Date,
+                <strong>Google UX Design Course 1 Certificate</strong> – Issued May 2021, No Expiration Date,
                 <br/>
-                ConnectWise Cyber Security certificate - Issued April 2020, No Expiration Date,
+               <strong> ConnectWise Cyber Security certificate</strong> - Issued April 2020, No Expiration Date,
                 <br/>
-                PII certificate - Issued April 2020, No Expiration Date,
+               <strong> PII certificate</strong> - Issued April 2020, No Expiration Date,
                 <br/>
-                Web Developer certificate (Udemy) - Issued November 2019, No Expiration Date,
+               <strong>Web Developer certificate (Udemy)</strong>  - Issued November 2019, No Expiration Date,
                 <br/>
-                CMIT NFR license (Egnyte licenses and franchise use) - Issued November 2020, No Expiration Date,
+               <strong> CMIT NFR license (Egnyte licenses and franchise use)</strong> - Issued November 2020, No Expiration Date,
                </p>
             </div>
          </div>
