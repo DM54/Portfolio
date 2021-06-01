@@ -11,12 +11,12 @@ const About = () => {
         <br/>
         <br/>
        <div class="row">
-         <div class="column">
+         <div class="col-md">
             <div class="stylepics">
             <Image src={ mepic} alt="me"  roundedCircle  ></Image>
             </div>
          </div>
-         <div class="column">
+         <div class="col-md">
          <br/>
            <h1 className="name">Dyana Monroy</h1><br/>
            <h5 className="pcolorabout">
@@ -96,6 +96,22 @@ const About = () => {
 
               </div>
              </div>
+         </div>
+         <div className="row">
+            <div className= "col-sm-4">
+              <h5 className="name">Certification/License</h5>
+               <p className="pcolorabout psize">
+                Google UX Design Course 1 Certificate – Issued May 2021, No Expiration Date,
+                <br/>
+                ConnectWise Cyber Security certificate - Issued April 2020, No Expiration Date,
+                <br/>
+                PII certificate - Issued April 2020, No Expiration Date,
+                <br/>
+                Web Developer certificate (Udemy) - Issued November 2019, No Expiration Date,
+                <br/>
+                CMIT NFR license (Egnyte licenses and franchise use) - Issued November 2020, No Expiration Date,
+               </p>
+            </div>
          </div>
    </div>
 
