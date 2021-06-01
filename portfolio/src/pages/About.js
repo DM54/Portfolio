@@ -51,10 +51,10 @@ const About = () => {
            <div className="row">
            <div className="col-sm-4">
             <h5 className="name">Education</h5>
-              <p className="pcolorabout">
+              <p className="pcolorabout psize">
                 Hofstra University
               </p>
-              <p >
+              <p  className="pcolorabout psize" >
                 Bachelor of Arts, Computer Science
                 <br/>
                 September 2015 - May 2019
@@ -62,10 +62,12 @@ const About = () => {
            </div>
            <div className="col-sm-4">
            <h5 className="name">Experience</h5>
-           <p className="pcolorabout">
+           <p className="pcolorabout psize ">
                 CMIT Solutions of Tribeca
               </p>
-              <p >
+              <p  className="pcolorabout psize" >
+                Web Development Intern
+              <br/>
                 Feb 2020 - April 2021
               </p>
              </div>
@@ -73,20 +75,22 @@ const About = () => {
              <h5 className="name">Technical Skills</h5>
              <div className="row">
              <div className="col-md">
-             <p className="pcolorabout">
+             <p className="pcolorabout psize">
              Languages
-               <p>
+               <p  className="pcolorabout psize">
                JavaScript, React, Java, C/C++, Python,
                HTML5,CSS3, SASS
                </p>
-
-
               </p>
               </div>
               <div className="col-md">
-             <p className="pcolorabout">
+             <p className="pcolorabout psize">
              Software
-             <p></p>
+             <p className="pcolorabout psize">
+             Node.js, Webpack, Babel, NPM,
+             Netlify, Heroku, Adobe Photoshop, Eclipse,
+             Linux, Git
+             </p>
               </p>
               </div>
 
