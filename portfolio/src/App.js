@@ -16,6 +16,7 @@ import Home from './pages/Home';
 import UXDesigns from './pages/UXDesigns';
 import WebDev from './pages/WebDev';
 import Travelsite from './pages/travelsite';
+import CrwnClothing from './pages/CrwnClothing';
 
 
 export default function App() {
@@ -50,6 +51,7 @@ export default function App() {
             <Route path='/UXDesigns' component={UXDesigns}></Route>
             <Route path='/WebDev' component={WebDev}></Route>
             <Route path='/travelsite' component={Travelsite}></Route>
+            <Route path='/crwnclothing' component={CrwnClothing}></Route>
           </Switch>
         </Router>
 

@@ -14,7 +14,7 @@ const Travelsite = () => {
               <h3 className="name">Travel Site</h3>
               <hr/>
               <div className="styles">
-              <img src={travelsitepic} alt="travelsitepic" height="250px"  ></img>
+              <img src={travelsitepic} alt="travelsitepic" height="200px"  ></img>
               </div>
                 <p className="pcolorabout psize styles">
                 This is a travel agency website taught by two mentors <em>Brad Schiff</em> and <em>John Doe</em>. <br/>
@@ -29,7 +29,7 @@ const Travelsite = () => {
                   <div className="col-sm-4">
                   <p className="pcolorabout psize styles" >
                      Date <br/>
-                     November 2019
+                     January 2019
                   </p>
                   </div>
                   <div className="col-sm-4">
@@ -42,18 +42,18 @@ const Travelsite = () => {
                   <div className="col-sm-4">
                   <p className="pcolorabout psize styles" >
                      Skills <br/>
-                     Object-Oriented JavaScript, ES6, Webpack, Node.js, NPM, BEM, and HTML5/CSS
+                     Object-Oriented JavaScript, ES6, Webpack, Node.js, NPM, BEM, and HTML5/CSS3
                   </p>
                   </div>
                 </div>
                 <div className="row">
-                  <div className="col-sm-4">
+                  <div className="col-md-4">
                   <img src={travelsitepic4} alt="travelsitepic" height="200px"  ></img>
                   </div>
-                  <div className="col-sm-4">
+                  <div className="col-md-4">
                   <img src={travelsitepic2} alt="travelsitepic" height="200px"  ></img>
                   </div>
-                  <div className="col-sm-4">
+                  <div className="col-md-4">
                   <img src={travelsitepic3} alt="travelsitepic" height="200px"  ></img>
                   </div>
                 </div>

@@ -2,6 +2,8 @@ import React from 'react';
 import Header from './Header';
 import travelsitepic from '../images/Capture.PNG';
 import Travelsitelink from '../components/Travelsitelink';
+import crwnclothing from '../images/crwn-clothing/Crwn.PNG';
+import Crwnclothinglink from '../components/crwnclothinglink';
 
 const WebDev = () => {
   return (
@@ -26,9 +28,10 @@ const WebDev = () => {
                   </div>
                   <div class="col-md-6">
                       <div class="stylepics">
+                      <img src={crwnclothing} alt="crwnclothingpic" height="150px"></img>
 
                       </div>
-
+                      <Crwnclothinglink></Crwnclothinglink>
 
                   </div>
 
