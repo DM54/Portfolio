@@ -47,6 +47,7 @@ const CrwnClothing = () => {
                   </div>
                    <div className="col-md-6">
                    <p className="pcolorabout psize styles">
+                     <br/>
                 This is a E-commerce app taught by mentor <em>Andrei Neagoie</em>, <em>Senior Software Developer</em>. <br/>
 
                  Most of my work process is in my GitHub account and <a href="https://github.com/DM54/crwn-clothing" target="_blank" rel="noreferrer" >can be view here</a>.

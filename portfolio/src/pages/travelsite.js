@@ -29,7 +29,7 @@ const Travelsite = () => {
                   <div className="col-sm-4">
                   <p className="pcolorabout psize styles" >
                      Date <br/>
-                     January 2019
+                    November 2019
                   </p>
                   </div>
                   <div className="col-sm-4">
