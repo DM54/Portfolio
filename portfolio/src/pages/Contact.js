@@ -18,7 +18,7 @@ const Contact = () => {
     <h2 class="green1">Get In Touch !</h2>
     <h3 class="green">Contact Form</h3>
     <p>Please fill out the form below.</p>
-    <form action="https://formspree.io/f/dyana.monroy17@live.com" method = "POST" enctype = "multipart/form-data" id="contact_form">
+    <form action="https://formspree.io/f/xqkwbgqk" method = "POST" enctype = "multipart/form-data" id="contact_form">
       <label for="first_name">First Name</label>
       <input name="first_name" type="text" required placeholder="First Name"/>
       <br/>
