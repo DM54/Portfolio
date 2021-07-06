@@ -23,8 +23,6 @@ const WebDev = () => {
                       </div>
                       <Travelsitelink></Travelsitelink>
 
-
-
                   </div>
                   <div class="col-md-6">
                       <div class="stylepics">
@@ -34,8 +32,8 @@ const WebDev = () => {
                       <Crwnclothinglink></Crwnclothinglink>
 
                   </div>
-
                 </div>
+
                 </div>
 
 

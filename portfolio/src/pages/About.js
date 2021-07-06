@@ -72,46 +72,59 @@ const About = () => {
               </p>
              </div>
              <div className="col-sm-4">
-             <h5 className="name">Technical Skills</h5>
-             <div className="row">
-             <div className="col-md">
+             <h5 className="name">Software</h5>
              <p className="pcolorabout psize">
-             Languages
                <p  className="pcolorabout psize">
-               JavaScript, React, Java, C/C++, Python,
-               HTML5,CSS3, SASS
+               Photoshop, Microsoft Office, Node.js -NPM,
+               Webpack, Babel, Netlify, Heroku, Eclipse, Linux, Git
                </p>
               </p>
-              </div>
-              <div className="col-md">
-             <p className="pcolorabout psize">
-             Software
-             <p className="pcolorabout psize">
-             Node.js, Webpack, Babel, NPM,
-             Netlify, Heroku, Adobe Photoshop, Eclipse,
-             Linux, Git
-             </p>
-              </p>
-              </div>
-
-              </div>
              </div>
-         </div>
-         <div className="row">
-            <div className= "col-sm-4">
+             <div className="col-sm-4">
+             <h5 className="name">Methods and Languages </h5>
+             <p className="pcolorabout psize">
+               <p  className="pcolorabout psize">
+               JavaScript, React, Java, C/C++, Python,
+               HTML5,CSS3, SASS,  Mobile and Desktop Design
+               </p>
+              </p>
+             </div>
+             <div className="col-sm-4">
+             <h5 className="name">Design Skills </h5>
+             <p className="pcolorabout psize">
+               <p  className="pcolorabout psize">
+               Branding + Identity, Design Thinking, Design Research (User)
+               </p>
+              </p>
+             </div>
+             <div className="col-sm-4">
+             <h5 className="name">Marketing Skills </h5>
+             <p className="pcolorabout psize">
+               <p  className="pcolorabout psize">
+               Social Media Marketing, Email Marketing
+               </p>
+              </p>
+             </div>
+             <div className= "col-sm-4">
               <h5 className="name">Certification/License</h5>
                <p className="pcolorabout psize">
-                <strong>Google UX Design Course 1 Certificate</strong> – Issued May 2021, No Expiration Date,
+               <strong> Start the UX Design Process: Empathize, Define, and Ideate Certificate </strong> – Issued July 2021, No Expiration Date,
                 <br/>
-               <strong> ConnectWise Cyber Security certificate</strong> - Issued April 2020, No Expiration Date,
+                <strong> Foundations of User Experience (UX) Design Certificate </strong> – Issued May 2021, No Expiration Date,
                 <br/>
-               <strong> PII certificate</strong> - Issued April 2020, No Expiration Date,
+               <strong> ConnectWise Cyber Security Certificate</strong> - Issued April 2020, No Expiration Date,
                 <br/>
-               <strong>Web Developer certificate (Udemy)</strong>  - Issued November 2019, No Expiration Date,
+               <strong> PII Certificate</strong> - Issued April 2020, No Expiration Date,
+                <br/>
+               <strong>Web Developer Certificate (Udemy)</strong>  - Issued November 2019, No Expiration Date,
                 <br/>
                <strong> CMIT NFR license (Egnyte licenses and franchise use)</strong> - Issued November 2020, No Expiration Date,
                </p>
             </div>
+
+         </div>
+         <div className="row">
+
          </div>
    </div>
 
