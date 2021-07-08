@@ -11,14 +11,14 @@ const About = () => {
         <br/>
         <br/>
        <div class="row">
-         <div class="col-md">
+         <div class="column">
             <div class="stylepics">
-            <Image src={ mepic} alt="me"  roundedCircle  ></Image>
+            <Image src={ mepic} alt="me"  roundedCircle style={{width:"90%", height: "95%"}}  ></Image>
             </div>
          </div>
          <div class="col-md">
          <br/>
-           <h1 className="name">Dyana Monroy</h1><br/>
+           <h3 className="name">Dyana Monroy</h3><br/>
            <h5 className="pcolorabout">
             Dyana is a developer / designer, passionate about
             creating applications and designs.
