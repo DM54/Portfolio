@@ -14,7 +14,7 @@ const CrwnClothing = () => {
               <h3 className="name">Crwn Clothing</h3>
               <hr/>
               <div className="styles">
-              <img src={crwnpic} alt="crwnpic" height="200px"  ></img>
+              <img src={crwnpic} alt="crwnpic"  style={{width:"100%"}}></img>
               </div>
               <div className="row">
                   <div className="col-sm-4">
@@ -43,7 +43,7 @@ const CrwnClothing = () => {
 
                   <div className="row">
                   <div className="col-md-6">
-                  <img src={crwnpic4} alt="crwnpic" height="200px"  ></img>
+                  <img src={crwnpic4} alt="crwnpic"  style={{width:"100%"}}></img>
                   </div>
                    <div className="col-md-6">
                    <p className="pcolorabout psize styles">
@@ -58,10 +58,10 @@ const CrwnClothing = () => {
                   </div>
                   <div className="row">
                   <div className="col-md-6">
-                  <img src={crwnpic2} alt="crwnepic" height="200px"  ></img>
+                  <img src={crwnpic2} alt="crwnepic"  style={{width:"100%"}}  ></img>
                   </div>
                   <div className="col-md-6">
-                  <img src={crwnpic3} alt="crwnpic" height="200px"  ></img>
+                  <img src={crwnpic3} alt="crwnpic"  style={{width:"100%"}} ></img>
                   </div>
                 </div>
 

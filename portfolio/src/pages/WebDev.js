@@ -24,14 +24,14 @@ const WebDev = () => {
                   <div class="col-md-6 ">
 
                       <div class="stylepics">
-                      <img src={travelsitepic} alt="travelsitepic" height="150px" ></img>
+                      <img src={travelsitepic} alt="travelsitepic"  style={{width:"100%"}} ></img>
                       </div>
                       <Travelsitelink></Travelsitelink>
 
                   </div>
                   <div class="col-md-6">
                       <div class="stylepics">
-                      <img src={crwnclothing} alt="crwnclothingpic" height="150px"></img>
+                      <img src={crwnclothing} alt="crwnclothingpic"  style={{width:"100%"}}></img>
 
                       </div>
                       <Crwnclothinglink></Crwnclothinglink>

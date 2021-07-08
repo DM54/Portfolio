@@ -15,7 +15,7 @@ const CmitWork = () =>{
         <Header></Header>
 
         <br/>
-              <h3>Internship Work | CMIT Solutions of Tribeca </h3>
+              <h3 className="name">Internship Work | CMIT Solutions of Tribeca </h3>
                 <hr/>
       <p className="pcolorabout psize" >
       <div className="row">
@@ -113,7 +113,7 @@ const CmitWork = () =>{
       </ul>
 
       <br/>
-      <h3 className="green">Email Campaigns</h3>
+      <h3 className="name">Email Campaigns</h3>
       <hr/>
 
 

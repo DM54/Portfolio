@@ -9,7 +9,7 @@ const WebDevLink = () => {
     <div className= "">
 
 
-    <NavLink to='/WebDev' className="content"><h4>Web Development</h4></NavLink>
+    <NavLink to='/WebDev' className="content" style={{width:"100%"}}><h4>Web Development</h4></NavLink>
 
   </div>
 

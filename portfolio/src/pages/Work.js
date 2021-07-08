@@ -17,7 +17,7 @@ const Work = () => {
                 <div class="col-md-6 ">
 
                     <div class="stylepics">
-                    <img src={UXpic} alt="UX" height="150px" ></img>
+                    <img src={UXpic} alt="UX" style={{width:"100%"}} ></img>
                     </div>
                     <UXLinks></UXLinks>
 
@@ -26,7 +26,7 @@ const Work = () => {
                 </div>
                 <div class="col-md-6">
                     <div class="stylepics">
-                     <img src={WEDpic} alt="web" height="150px" ></img>
+                     <img src={WEDpic} alt="web" style={{width:"100%"}} ></img>
                      </div>
                     <WebDevLink></WebDevLink>
 

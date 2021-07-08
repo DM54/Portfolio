@@ -9,7 +9,7 @@ const travelsitelink = () => {
     <div className= "">
 
 
-    <NavLink to='/travelsite' className="content"><h4>Travel Site</h4></NavLink>
+    <NavLink to='/travelsite' className="content"  style={{width:"100%"}}><h4>Travel Site</h4></NavLink>
 
   </div>
 

@@ -9,7 +9,7 @@ const crwnclothinglink = () => {
     <div className= "">
 
 
-    <NavLink to='/crwnclothing' className="content"><h4>Crwn Clothing</h4></NavLink>
+    <NavLink to='/crwnclothing' className="content"  style={{width:"100%"}}><h4>Crwn Clothing</h4></NavLink>
 
   </div>
 

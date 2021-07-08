@@ -14,7 +14,7 @@ const Travelsite = () => {
               <h3 className="name">Travel Site</h3>
               <hr/>
               <div className="styles">
-              <img src={travelsitepic} alt="travelsitepic" height="200px"  ></img>
+              <img src={travelsitepic} alt="travelsitepic"  style={{width:"100%"}} ></img>
               </div>
                 <p className="pcolorabout psize styles">
                 This is a travel agency website taught by two mentors <em>Brad Schiff</em> and <em>John Doe</em>. <br/>
@@ -48,13 +48,13 @@ const Travelsite = () => {
                 </div>
                 <div className="row">
                   <div className="col-md-4">
-                  <img src={travelsitepic4} alt="travelsitepic" height="200px"  ></img>
+                  <img src={travelsitepic4} alt="travelsitepic"  style={{width:"100%"}}  ></img>
                   </div>
                   <div className="col-md-4">
-                  <img src={travelsitepic2} alt="travelsitepic" height="200px"  ></img>
+                  <img src={travelsitepic2} alt="travelsitepic"  style={{width:"100%"}}  ></img>
                   </div>
                   <div className="col-md-4">
-                  <img src={travelsitepic3} alt="travelsitepic" height="200px"  ></img>
+                  <img src={travelsitepic3} alt="travelsitepic"  style={{width:"100%"}} ></img>
                   </div>
                 </div>
 

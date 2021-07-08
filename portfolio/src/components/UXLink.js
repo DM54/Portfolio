@@ -9,7 +9,7 @@ const UXLink = () => {
     <div className= "">
 
 
-    <NavLink to='/UXDesigns' className="content"><h4>UX Design</h4></NavLink>
+    <NavLink to='/UXDesigns' className="content" style={{width:"100%"}}><h4>UX Design</h4></NavLink>
 
   </div>
 
