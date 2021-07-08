@@ -1,9 +1,9 @@
 import React from 'react';
 import Header from './Header';
-import travelsitepic from '../images/Capture.PNG';
-import travelsitepic2 from '../images/Capture2.PNG';
-import travelsitepic3 from '../images/Capture3.PNG';
-import travelsitepic4 from '../images/Capture4.PNG';
+import travelsitepic from '../images/travelsite/Capture.PNG';
+import travelsitepic2 from '../images/travelsite/Capture2.PNG';
+import travelsitepic3 from '../images/travelsite/Capture3.PNG';
+import travelsitepic4 from '../images/travelsite/Capture4.PNG';
 
 const Travelsite = () => {
   return (

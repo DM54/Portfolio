@@ -17,6 +17,7 @@ import UXDesigns from './pages/UXDesigns';
 import WebDev from './pages/WebDev';
 import Travelsite from './pages/travelsite';
 import CrwnClothing from './pages/CrwnClothing';
+import CmitWork from './pages/cmitwork';
 
 
 export default function App() {
@@ -52,6 +53,7 @@ export default function App() {
             <Route path='/WebDev' component={WebDev}></Route>
             <Route path='/travelsite' component={Travelsite}></Route>
             <Route path='/crwnclothing' component={CrwnClothing}></Route>
+            <Route path='/cmitwork' component={CmitWork}></Route>
           </Switch>
         </Router>
 
