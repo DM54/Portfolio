@@ -75,8 +75,8 @@ const About = () => {
              <h5 className="name">Software</h5>
              <p className="pcolorabout psize">
                <p  className="pcolorabout psize">
-               Photoshop, Microsoft Office, Node.js -NPM,
-               Webpack, Babel, Netlify, Heroku, Eclipse, Linux, Git
+               Photoshop, Figma, Microsoft Office, Node.js -NPM,
+               Webpack, Babel, Netlify, Heroku, Eclipse, Linux, Git, Visual Studio Code
                </p>
               </p>
              </div>
@@ -108,6 +108,7 @@ const About = () => {
              <div className= "col-sm-4">
               <h5 className="name">Certification/License</h5>
                <p className="pcolorabout psize">
+                 <strong>Build Wireframes and Low-Fidelity Prototypes Certificate</strong> – Issued August 2021, No Expiration Date
                <strong> Start the UX Design Process: Empathize, Define, and Ideate Certificate </strong> – Issued July 2021, No Expiration Date,
                 <br/>
                 <strong> Foundations of User Experience (UX) Design Certificate </strong> – Issued May 2021, No Expiration Date,
