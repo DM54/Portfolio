@@ -49,6 +49,11 @@ const uxgoogleproject = () => {
                   </p>
                   </div>
                 </div>
+
+      <div className="backgroundinfo">
+        <p>Background: Designing a menu and ordering app for user who need fast and easy ordering process
+          and ready for takeout or delivery from the nearest location to user's destination.</p>
+      </div>
       <div className="flex">
         <p>
           storyboard - Big Picture
@@ -65,7 +70,7 @@ const uxgoogleproject = () => {
 
    </div>
 
-                )
+  )
 }
 
 export default uxgoogleproject ;
