@@ -18,6 +18,7 @@ import WebDev from './pages/WebDev';
 import Travelsite from './pages/travelsite';
 import CrwnClothing from './pages/CrwnClothing';
 import CmitWork from './pages/cmitwork';
+import WorkprogessUX from './pages/workprogesspage';
 
 
 export default function App() {
@@ -54,6 +55,7 @@ export default function App() {
             <Route path='/travelsite' component={Travelsite}></Route>
             <Route path='/crwnclothing' component={CrwnClothing}></Route>
             <Route path='/cmitwork' component={CmitWork}></Route>
+            <Route path='/workprogress' component={WorkprogessUX}></Route>
           </Switch>
         </Router>
 
