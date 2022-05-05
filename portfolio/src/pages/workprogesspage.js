@@ -57,10 +57,18 @@ const uxgoogleproject = () => {
           storyboard - Big Picture
         </p>
         <img src={bigpic} alt="bigpicture" style={{width: "50%"}}></img>
-        <p style={{width: "50%", float: "right"}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit a
-        nim id est laborum.</p>
+        <p style={{width: "50%", float: "right"}}>Illustration of a user's ordering process in big picture. Big Picture focus on the user experience ordering through an app.
+
+         <ol>
+           <li>  Ana(User): is fustrated with the Restaurant website, she is not sure if there is an option for takeout.</li>
+           <li>  She found an app that is easy to use and can find anything she wants on the home page.</li>
+           <li>  She look at the menu and place an order.</li>
+           <li>  She is happy to see an option to takeout and decided to walk to the Restaurant from work.</li>
+           <li>  She didn't need to wait in line, she was able to pickup and go back to work.</li>
+           <li>  She was happy to arrive back to work and didn't take long to get her order.</li>
+         </ol>
+
+        </p>
       </div>
       <br/>
       <div className="flex">
@@ -69,10 +77,17 @@ const uxgoogleproject = () => {
         </p>
         <img src={closeup} alt="closeup" style={{width: "50%"}}></img>
 
-        <p style={{width: "50%", float: "right"}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit a
-        nim id est laborum.</p>
+        <p style={{width: "50%", float: "right"}}>Illustration of a user's ordering process in Close-up. Close-up focus on the product.
+
+        <ol>
+           <li>  Ana(User): download and open the app.</li>
+           <li>  She look the menu and customer reviews.</li>
+           <li>  She place an order.</li>
+           <li>  She choose takeout.</li>
+           <li>  She receive confirmation number with the list.</li>
+           <li>  She receive notification of her order ready to pickup.</li>
+         </ol>
+        </p>
       </div>
 
       <div>
@@ -80,10 +95,7 @@ const uxgoogleproject = () => {
       <h4>Personas</h4>
       <img src={persona1} alt="persona1" style={{width: "50%"}}></img>
       <img src={persona2} alt="persona2" style={{width: "50%"}}></img>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit a
-        nim id est laborum.</p>
+      <p>Fictional Users whose goals and characteristics represent the needs of a larger group of users.</p>
 
       </div>
 
@@ -106,7 +118,7 @@ const uxgoogleproject = () => {
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
         voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit a
-        nim id est laborum.</p>
+        nim id est laborum.  <a href='https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:2b0ec480-9988-38e8-ae42-c6f84bb3cee4' target='_blank'>Linkcd </a></p>
 
 
       </div>
