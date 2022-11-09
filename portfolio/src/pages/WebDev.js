@@ -7,6 +7,8 @@ import Crwnclothinglink from '../components/crwnclothinglink';
 import CmitWork from '../components/cmitworklink';
 import hybridimg from '../images/cmit/hybridemail.PNG';
 import DService from '../images/cmit/DSfb.PNG';
+import UdacityImage from '../images/nanodegree/Udacity-Scholarship-Programming-Web-Development.jpg';
+import NanoDegreeProgramlink from '../components/nanodegreelink';
 
 
 
@@ -50,6 +52,13 @@ const WebDev = () => {
 
                     <CmitWork></CmitWork>
 
+                    </div>
+                    <div class="col-md-6 ">
+
+                    <div class="stylepics">
+                    <img src={UdacityImage} alt="udacitypic" style={{height:"150px"}} ></img>
+                    </div>
+                    <NanoDegreeProgramlink></NanoDegreeProgramlink>
                     </div>
                     </div>
 

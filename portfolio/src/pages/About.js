@@ -34,8 +34,9 @@ const About = () => {
              Social Media Marketing, and SEO.
            </p>
             <p className="pcolorabout">
-              Recently, I'm interested in UX Design, joined a program offered by Google.
-              I'm interested in User Research, Production Design, and Visual Design.
+             Recently, I took 7th months NanoDegree Program - Udacity Scholarship Program Sponsored by Citi.
+             I have completed about 5 projects in JavaScript and The DOM, Web APIs and Asynchronous Applications,
+             Java Fundamentals, and Advanced Java Programming Techniques.
             </p>
             <p className="pcolorabout">
               When I'm not developing / designing, I take my time practicing photography,

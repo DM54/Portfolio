@@ -19,6 +19,7 @@ import Travelsite from './pages/travelsite';
 import CrwnClothing from './pages/CrwnClothing';
 import CmitWork from './pages/cmitwork';
 import WorkprogessUX from './pages/workprogesspage';
+import NanoDegreeProgram from './pages/NanoDegreeProgram';
 
 
 export default function App() {
@@ -49,13 +50,11 @@ export default function App() {
             <Route path='/contact' component={Contact}>
 
             </Route>
-
-            <Route path='/UXDesigns' component={UXDesigns}></Route>
             <Route path='/WebDev' component={WebDev}></Route>
             <Route path='/travelsite' component={Travelsite}></Route>
             <Route path='/crwnclothing' component={CrwnClothing}></Route>
             <Route path='/cmitwork' component={CmitWork}></Route>
-            <Route path='/workprogress' component={WorkprogessUX}></Route>
+            <Route path='/nanodegree' component={NanoDegreeProgram}></Route>
           </Switch>
         </Router>
 

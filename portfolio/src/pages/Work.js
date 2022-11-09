@@ -14,16 +14,6 @@ const Work = () => {
                 <hr/>
                 <div class="row">
 
-                <div class="col-md-6 ">
-
-                    <div class="stylepics">
-                    <img src={UXpic} alt="UX" style={{width:"100%"}} ></img>
-                    </div>
-                    <UXLinks></UXLinks>
-
-
-
-                </div>
                 <div class="col-md-6">
                     <div class="stylepics">
                      <img src={WEDpic} alt="web" style={{width:"100%"}} ></img>
@@ -32,17 +22,8 @@ const Work = () => {
 
                 </div>
 
-
-
-
-
                 </div>
                 </div>
-
-
-
-
-
 
 
   )
