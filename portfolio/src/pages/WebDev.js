@@ -18,8 +18,31 @@ const WebDev = () => {
            <Header></Header>
 
                 <br/>
-              <h3>Web Design</h3>
+              <h3>Web Development</h3>
                 <hr/>
+
+                <div className="row">
+                    <div class="col-md-6 ">
+
+                        <div class="stylepics">
+                        <img src={UdacityImage} alt="udacitypic" style={{height:"150px"}} ></img>
+                        </div>
+                        <NanoDegreeProgramlink></NanoDegreeProgramlink>
+                        </div>
+
+
+                        <div class="col-md-6 ">
+
+                        <div class="stylepics">
+                        <img src={hybridimg} alt="hybridpic" style={{height:"150px"}} ></img>
+                        <img src={DService} alt="digitalpic" style={{height:"150px"}} ></img>
+                        </div>
+
+                    <CmitWork></CmitWork>
+
+                    </div>
+                    </div>
+                    <br/>
 
                 <div class="row">
 
@@ -40,34 +63,10 @@ const WebDev = () => {
 
                   </div>
                   </div>
-                    <br/>
-                    <div className="row">
 
-                        <div class="col-md-6 ">
 
-                        <div class="stylepics">
-                        <img src={hybridimg} alt="hybridpic" style={{height:"150px"}} ></img>
-                        <img src={DService} alt="digitalpic" style={{height:"150px"}} ></img>
-                        </div>
-
-                    <CmitWork></CmitWork>
-
-                    </div>
-                    <div class="col-md-6 ">
-
-                    <div class="stylepics">
-                    <img src={UdacityImage} alt="udacitypic" style={{height:"150px"}} ></img>
-                    </div>
-                    <NanoDegreeProgramlink></NanoDegreeProgramlink>
-                    </div>
-                    </div>
 
                  </div>
-
-
-
-
-
 
 
 
