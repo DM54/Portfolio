@@ -35,7 +35,7 @@ const NanoDegreeProgram = () =>{
     <ul className="pcolorabout psize">
     <li>I started from scratch, completed the project with HTML, CSS Flexbox, CSS Grid, and created responsive layout to make the blog website with an example blog post.
      </li>
-    <li><a href="https://github.com/DM54/Personal-Blog-Website" target="_blank" rel="noreferrer">Github Repo Link</a></li>
+    <li><a href="https://github.com/DM54/Personal-Blog-Website" target="_blank" rel="noreferrer">GitHub Repo Link</a></li>
     </ul>
 
     <br/>
@@ -53,7 +53,7 @@ const NanoDegreeProgram = () =>{
     <ul className="pcolorabout psize">
     <li> I was given a starter code to implement the landing page dynamically. I learned JavaScript syntax, the DOM (The Document Object Model), created content with JavaScript, Browser events, and performance - measured the code to perform efficiently, how reflow and repaint affect performance.
      </li>
-    <li><a href="https://github.com/DM54/Project2-js-and-DOM" target="_blank" rel="noreferrer">Github Repo Link</a></li>
+    <li><a href="https://github.com/DM54/Project2-js-and-DOM" target="_blank" rel="noreferrer">GitHub Repo Link</a></li>
     </ul>
 
     <br/>
@@ -74,7 +74,7 @@ const NanoDegreeProgram = () =>{
       Used Express to setup server side routes and execute client side handlers for GET and POST requests. Asynchronous JavaScript with
       Fetch API and Web API.
      </li>
-    <li><a href="https://github.com/DM54/Project3-Asynchronous-API" target="_blank" rel="noreferrer">Github Repo Link</a></li>
+    <li><a href="https://github.com/DM54/Project3-Asynchronous-API" target="_blank" rel="noreferrer">GitHub Repo Link</a></li>
     </ul>
 
     <br/>
@@ -94,7 +94,7 @@ const NanoDegreeProgram = () =>{
     <li>The hotel reservation application will allow customers to find and book a hotel room based on room availability.
       Using OOP concepts and Java.
      </li>
-    <li><a href="https://github.com/DM54/hotel-reservation" target="_blank" rel="noreferrer">Github Repo Link</a></li>
+    <li><a href="https://github.com/DM54/hotel-reservation" target="_blank" rel="noreferrer">GitHub Repo Link</a></li>
     </ul>
 
     <br/>
@@ -116,7 +116,7 @@ const NanoDegreeProgram = () =>{
       Design Pattern, and reflection - ability to examine its own structure at runtime. Also, worked with Concurrent Programming
       such as threads, fork pool, and recursive tasks.
      </li>
-    <li><a href="https://github.com/DM54/ParallelWebCrawlerProject" target="_blank" rel="noreferrer">Github Repo Link</a></li>
+    <li><a href="https://github.com/DM54/ParallelWebCrawlerProject" target="_blank" rel="noreferrer">GitHub Repo Link</a></li>
     </ul>
 
     <br/>
@@ -137,7 +137,7 @@ const NanoDegreeProgram = () =>{
       Given a starter code to implement and update the pom.xml and split the project to multiple modules with their own poms.
       Using Maven dependency, Mockito to mock current java class to test and fix bugs in the application.
      </li>
-    <li><a href="https://github.com/DM54/UdaSecurityProject" target="_blank" rel="noreferrer">Github Repo Link</a></li>
+    <li><a href="https://github.com/DM54/UdaSecurityProject" target="_blank" rel="noreferrer">GitHub Repo Link</a></li>
     </ul>
 
     <br/>

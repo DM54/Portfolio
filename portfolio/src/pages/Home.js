@@ -8,7 +8,7 @@ const Home = () => {
     <div class="bg-image">
     <div class="hero-text ">
 
-     <h1>Hello! My name is Dyana.</h1>
+     <h2>Hello! My name is Dyana.</h2>
     <p class='pcolor'>Dyana Monroy is a developer / designer, </p>
      <p class='pcolor'> passionate about creating applications and designs.</p>
 
