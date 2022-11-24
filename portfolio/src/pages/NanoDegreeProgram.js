@@ -156,7 +156,7 @@ const NanoDegreeProgram = () =>{
       Given a document to fill in the data found from provided workspace to execute SQL commands. The project is about
      forestation as well as total land area and region groupings, and joining these tables together into a database by the year 1990-2016.
      </li>
-    <li><a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:5eb24ab1-3ce8-3a62-a604-23800f8b7e6f" target="_blank" rel="noreferrer">GitHub Repo Link</a></li>
+    <li><a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:5eb24ab1-3ce8-3a62-a604-23800f8b7e6f" target="_blank" rel="noreferrer">PDF Link</a></li>
     </ul>
 
     <br/>
