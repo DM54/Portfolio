@@ -7,7 +7,7 @@ const footer = () => {
 
    <div className= "bg">
      <div className="info">
-       <p> © Dyana Monroy 2022 | Web Developer | Web Designer</p>
+       <p> © Dyana Monroy 2023 | Web Developer | Web Designer</p>
      </div>
      <div className="footerlinks">
 

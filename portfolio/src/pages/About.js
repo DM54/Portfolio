@@ -57,9 +57,7 @@ const About = () => {
               </p>
               <p  className="pcolorabout psize" >
                 Bachelor of Arts, Computer Science
-                <br/>
-                September 2015 - May 2019
-              </p>
+                </p>
            </div>
            <div className="col-sm-4">
            <h5 className="name">Experience</h5>
@@ -69,15 +67,14 @@ const About = () => {
               <p  className="pcolorabout psize" >
                 Web Development Intern
               <br/>
-                Feb 2020 - April 2021
+                February 2020 - April 2021
               </p>
              </div>
              <div className="col-sm-4">
              <h5 className="name">Software</h5>
              <p className="pcolorabout psize">
                <p  className="pcolorabout psize">
-               Photoshop, Figma, Microsoft Office, Node.js -NPM,
-               Webpack, Babel, Netlify, Heroku, Eclipse, Linux, Git, Visual Studio Code
+              Node.js -NPM, Netlify, Heroku, Eclipse, Linux, Git, and Visual Studio Code
                </p>
               </p>
              </div>
@@ -85,42 +82,23 @@ const About = () => {
              <h5 className="name">Methods and Languages </h5>
              <p className="pcolorabout psize">
                <p  className="pcolorabout psize">
-               JavaScript, React, Java, C/C++, Python,
-               HTML5,CSS3, SASS,  Mobile and Desktop Design
-               </p>
-              </p>
-             </div>
-             <div className="col-sm-4">
-             <h5 className="name">Design Skills </h5>
-             <p className="pcolorabout psize">
-               <p  className="pcolorabout psize">
-               Branding + Identity, Design Thinking, Design Research (User)
-               </p>
-              </p>
-             </div>
-             <div className="col-sm-4">
-             <h5 className="name">Marketing Skills </h5>
-             <p className="pcolorabout psize">
-               <p  className="pcolorabout psize">
-               Social Media Marketing, Email Marketing
+               JavaScript, Java
                </p>
               </p>
              </div>
              <div className= "col-sm-4">
-              <h5 className="name">Certification/License</h5>
+              <h5 className="name">Certification</h5>
                <p className="pcolorabout psize">
-                 <strong>Build Wireframes and Low-Fidelity Prototypes Certificate</strong> – Issued August 2021, No Expiration Date
-               <strong> Start the UX Design Process: Empathize, Define, and Ideate Certificate </strong> – Issued July 2021, No Expiration Date,
+                 <strong>Build Wireframes and Low-Fidelity Prototypes Certificate</strong>
+               <strong> Start the UX Design Process: Empathize, Define, and Ideate Certificate </strong>
                 <br/>
-                <strong> Foundations of User Experience (UX) Design Certificate </strong> – Issued May 2021, No Expiration Date,
+                <strong> Foundations of User Experience (UX) Design Certificate </strong>
                 <br/>
-               <strong> ConnectWise Cyber Security Certificate</strong> - Issued April 2020, No Expiration Date,
+               <strong> ConnectWise Cyber Security Certificate</strong>
                 <br/>
-               <strong> PII Certificate</strong> - Issued April 2020, No Expiration Date,
+               <strong> PII Certificate</strong>
                 <br/>
-               <strong>Web Developer Certificate (Udemy)</strong>  - Issued November 2019, No Expiration Date,
-                <br/>
-               <strong> CMIT NFR license (Egnyte licenses and franchise use)</strong> - Issued November 2020, No Expiration Date,
+               <strong>Web Developer Certificate (Udemy)</strong>
                </p>
             </div>
 

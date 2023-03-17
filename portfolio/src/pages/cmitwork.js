@@ -52,13 +52,13 @@ const CmitWork = () =>{
 
       <br/>
 
-      <h5>Hybrid Working model | 03 2021 </h5>
+      <h5>Hybrid Working model</h5>
       <p className="pcolorabout psize " >
       Role: Design, Email Marketing, Social Media Marketing <br/>
       Skills/Software: Constant Contact Email Automation, Photoshop, WordPress - HTML5/CSS3, JavaScript
       </p>
       <ul className="pcolorabout psize">
-      <li>I created a landing page to help small and medium size businesses prepare to return to office as a hybrid working model and
+      <li>Created a landing page to help small and medium size businesses prepare to return to office as a hybrid working model and
         created a sign up form from Constant Contact.</li>
       <li>Whenever someone signs up to the mailing list they will receive an email of a PDF checklist document (to help small and
       medium size businesses prepare to return to office as a hybrid working model).</li>
@@ -69,13 +69,13 @@ const CmitWork = () =>{
 
       <br/>
 
-      <h5>Digital Service page | 09 2020 </h5>
+      <h5>Digital Service page</h5>
       <p className="pcolorabout psize " >
       Role: Design, Email Marketing, Social Media Marketing <br/>
       Skills/Software: Constant Contact Email Automation, Photoshop, WordPress - HTML5/CSS3, JavaScript, Calendly Plugin
       </p>
       <ul className="pcolorabout psize">
-      <li>I created a new web page of Digital Service to offer web development, email marketing and SEO service to small and
+      <li>Created a new web page of Digital Service to offer web development, email marketing and SEO service to small and
         medium size businesses</li>
       <li>Made email campaign to launch it to social media platforms and advertise it in LinkedIn. </li>
       <li><a href="https://cmitsolutions.com/tribeca/digital-service/" target="_blank" rel="noreferrer">Link</a></li>
@@ -83,7 +83,7 @@ const CmitWork = () =>{
 
       <br/>
 
-      <h5>Cyber Security page | 03 2020 </h5>
+      <h5>Cyber Security page</h5>
       <p className="pcolorabout psize " >
       Currently in DEMO <br/>
       Role: Design <br/>
@@ -98,7 +98,7 @@ const CmitWork = () =>{
 
       <br/>
 
-      <h5>Managed IT page | 09 2020 </h5>
+      <h5>Managed IT page</h5>
       <p className="pcolorabout psize " >
       Currently in DEMO <br/>
       Role: Design <br/>
@@ -119,7 +119,7 @@ const CmitWork = () =>{
 
       <br/>
 
-      <h5>Hybrid Working model | 03 2021 </h5>
+      <h5>Hybrid Working model </h5>
       <p className="pcolorabout psize " >
       Role: Design, Email Marketing, Social Media Marketing <br/>
       Skills/Software: Constant Contact Email Automation, Photoshop
@@ -133,7 +133,7 @@ const CmitWork = () =>{
 
       <br/>
 
-      <h5>Digital Service Offer | 10 2020 </h5>
+      <h5>Digital Service Offer</h5>
       <p className="pcolorabout psize " >
       Role: Design, Email Marketing, Social Media Marketing <br/>
       Skills/Software: Constant Contact Email Automation, Photoshop
@@ -148,7 +148,7 @@ const CmitWork = () =>{
 
       <br/>
 
-      <h5>Free IT Service Offer | 06 2020</h5>
+      <h5>Free IT Service Offer</h5>
       <p className="pcolorabout psize " >
       Role: Design, Email Marketing, Social Media Marketing <br/>
       Skills/Software: Constant Contact Email Automation, Photoshop

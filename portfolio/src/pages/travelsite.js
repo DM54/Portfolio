@@ -28,12 +28,6 @@ const Travelsite = () => {
                 <div className="row">
                   <div className="col-sm-4">
                   <p className="pcolorabout psize styles" >
-                     Date <br/>
-                    November 2019
-                  </p>
-                  </div>
-                  <div className="col-sm-4">
-                  <p className="pcolorabout psize styles" >
                      Role <br/>
                     From Scratch to Launch,
                     Developing and Design

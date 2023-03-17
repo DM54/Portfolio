@@ -17,12 +17,7 @@ const CrwnClothing = () => {
               <img src={crwnpic} alt="crwnpic"  style={{width:"100%"}}></img>
               </div>
               <div className="row">
-                  <div className="col-sm-4">
-                  <p className="pcolorabout psize styles" >
-                     Date <br/>
-                     January 2020
-                  </p>
-                  </div>
+
                   <div className="col-sm-4">
                   <p className="pcolorabout psize styles" >
                      Role <br/>
